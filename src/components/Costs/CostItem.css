@@ -7,7 +7,7 @@
     background-color: #bd8025;
 }
 
-.cost-item-description {
+.cost-item__description {
     display: flex;
     flex-direction: column;
     gap: 1rem;
